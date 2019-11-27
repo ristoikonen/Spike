@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\repos\\machinelearning-samples-master\\samples\\csharp\\getting-started\\AnomalyDetection_Sales\\SpikeDetection\\SpikeDetectionConsoleApp\\SpikeDetection.csproj": {}
+  },
+  "projects": {
+    "C:\\repos\\machinelearning-samples-master\\samples\\csharp\\getting-started\\AnomalyDetection_Sales\\SpikeDetection\\SpikeDetectionConsoleApp\\SpikeDetection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\machinelearning-samples-master\\samples\\csharp\\getting-started\\AnomalyDetection_Sales\\SpikeDetection\\SpikeDetectionConsoleApp\\SpikeDetection.csproj",
+        "projectName": "SpikeDetection",
+        "projectPath": "C:\\repos\\machinelearning-samples-master\\samples\\csharp\\getting-started\\AnomalyDetection_Sales\\SpikeDetection\\SpikeDetectionConsoleApp\\SpikeDetection.csproj",
+        "packagesPath": "C:\\Users\\Risto Ikonen\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\machinelearning-samples-master\\samples\\csharp\\getting-started\\AnomalyDetection_Sales\\SpikeDetection\\SpikeDetectionConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\repos\\machinelearning-samples-master\\samples\\NuGet.Config",
+          "C:\\Users\\Risto Ikonen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/MachineLearning/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.ML.TimeSeries": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview2-014569\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\repos\machinelearning-samples-master\samples\csharp\getting-started\AnomalyDetection_Sales\SpikeDetection\SpikeDetectionConsoleApp\bin\Debug\netcoreapp2.2\SpikeDetection.deps.json
+C:\repos\machinelearning-samples-master\samples\csharp\getting-started\AnomalyDetection_Sales\SpikeDetection\SpikeDetectionConsoleApp\bin\Debug\netcoreapp2.2\SpikeDetection.runtimeconfig.json
+C:\repos\machinelearning-samples-master\samples\csharp\getting-started\AnomalyDetection_Sales\SpikeDetection\SpikeDetectionConsoleApp\bin\Debug\netcoreapp2.2\SpikeDetection.runtimeconfig.dev.json
+C:\repos\machinelearning-samples-master\samples\csharp\getting-started\AnomalyDetection_Sales\SpikeDetection\SpikeDetectionConsoleApp\bin\Debug\netcoreapp2.2\SpikeDetection.dll
+C:\repos\machinelearning-samples-master\samples\csharp\getting-started\AnomalyDetection_Sales\SpikeDetection\SpikeDetectionConsoleApp\bin\Debug\netcoreapp2.2\SpikeDetection.pdb
+C:\repos\machinelearning-samples-master\samples\csharp\getting-started\AnomalyDetection_Sales\SpikeDetection\SpikeDetectionConsoleApp\obj\Debug\netcoreapp2.2\SpikeDetection.csprojAssemblyReference.cache
+C:\repos\machinelearning-samples-master\samples\csharp\getting-started\AnomalyDetection_Sales\SpikeDetection\SpikeDetectionConsoleApp\obj\Debug\netcoreapp2.2\SpikeDetection.AssemblyInfoInputs.cache
+C:\repos\machinelearning-samples-master\samples\csharp\getting-started\AnomalyDetection_Sales\SpikeDetection\SpikeDetectionConsoleApp\obj\Debug\netcoreapp2.2\SpikeDetection.AssemblyInfo.cs
+C:\repos\machinelearning-samples-master\samples\csharp\getting-started\AnomalyDetection_Sales\SpikeDetection\SpikeDetectionConsoleApp\obj\Debug\netcoreapp2.2\SpikeDetection.dll
+C:\repos\machinelearning-samples-master\samples\csharp\getting-started\AnomalyDetection_Sales\SpikeDetection\SpikeDetectionConsoleApp\obj\Debug\netcoreapp2.2\SpikeDetection.pdb
